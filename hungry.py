@@ -6,5 +6,9 @@ else:
     thirsty = input("Are you Thirsty? ")
     if thirsty == "yes":
         print("Drink water")
+<<<<<<< HEAD
     else:
         print("You are on your own")
+=======
+    
+>>>>>>> main
